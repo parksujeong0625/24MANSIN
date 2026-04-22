@@ -1,0 +1,28 @@
+{
+  "name": "24만신 - 재미로 보는 이사운세",
+  "short_name": "24만신",
+  "description": "재미로 보는 이사운세 - 사주팔자 기반 이동운명, 길일찾기, 체크리스트",
+  "start_url": "/24MANSIN/",
+  "display": "standalone",
+  "background_color": "#0D0A2E",
+  "theme_color": "#D4A017",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "entertainment"],
+  "lang": "ko-KR",
+  "dir": "ltr",
+  "scope": "/24MANSIN/"
+}
