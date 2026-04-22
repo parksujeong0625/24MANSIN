@@ -6,8 +6,8 @@
   "outputDirectory": null,
   "rewrites": [
     {
-      "source": "/",
-      "destination": "/index.html"
+      "source": "/(.*)",
+      "destination": "/24mansin-vercel/$1"
     }
   ],
   "headers": [
